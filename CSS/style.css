@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.infobar {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.cart {
+    display: grid;
+    justify-content: stretch;
+    align-items: center;
+}
