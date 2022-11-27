@@ -14,3 +14,27 @@
     justify-content: stretch;
     align-items: center;
 }
+
+.pro1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    background-color: #9db4bf;
+}
+.icon {
+    height: 30px;
+    width: 30px;
+    background: none;
+}
+.btn-del {
+    height: 15px;
+    width: 15px;
+    background: none;
+}
+main {
+    background-color: #9db4bf;
+}
